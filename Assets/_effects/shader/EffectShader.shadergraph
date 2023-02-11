@@ -185,7 +185,7 @@
                 "m_Node": {
                     "m_Id": "0c26d3c02e434d769e8ab0ec01cde0ff"
                 },
-                "m_SlotId": 7
+                "m_SlotId": 0
             },
             "m_InputSlot": {
                 "m_Node": {
@@ -367,7 +367,7 @@
                 "m_Node": {
                     "m_Id": "9cb4a534f5fa4318b7e72a4623760a71"
                 },
-                "m_SlotId": 7
+                "m_SlotId": 0
             },
             "m_InputSlot": {
                 "m_Node": {
